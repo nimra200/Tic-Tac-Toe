@@ -4,7 +4,7 @@ A network server that allows people to play Tic Tac Toe and chat with each other
 # How to Run the Program
 
 This program is a server which accepts connections from an unlimited number of clients. 
-To run the *just* the server, type the following on the command line:
+To run *just* the server, type the following on the command line:
 
 > gcc -Wall ticsvr.c
 
